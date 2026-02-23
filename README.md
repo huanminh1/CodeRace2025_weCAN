@@ -14,7 +14,7 @@
  ## 3. Key Features
    ![](docs/images/System_Overview.png)
 
- - **Gear Detection:** Via CAN ID 0x191, identifies gear state: P (Parking), R (Reverse), N (Neutral), D (Drive).
+ - **Gear Detection:** Via CAN ID 0x191, identifies gear state: P (Parking), R (Reverse), N (Neutral), D (Drive), S (Sport).
  - **Engine Status Monitoring:** Via CAN ID 0x17C, distinguishes between Pre-Ignition, Ignition, and OFF.
  - **Brake Status Monitoring:** Via CAN ID 0x1A4, 0x1A6, detects brake pedal and hand brake engagement.
  - **Real-Time Feedback:** Intuitive warnings displayed on a compact OLED screen.
